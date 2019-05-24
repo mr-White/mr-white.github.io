@@ -1,5 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-05-22T19:40:15-06:00</updated><id>/</id><title type="html">Copy &amp;amp; Paste</title><subtitle>Thoughts of a Lost Astronaut</subtitle><entry><title type="html">Connected Opposites</title><link href="/connected-opposites" rel="alternate" type="text/html" title="Connected Opposites" /><published>2018-05-08T15:08:00-06:00</published><updated>2018-05-08T15:08:00-06:00</updated><id>/connected-opposites</id><content type="html" xml:base="/connected-opposites">&lt;blockquote&gt;
-  &lt;p&gt;Here’s a poem, I wrote… about dark memories long ago. If you care to read it, I suggest you read it, very… very… slow.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-05-24T15:41:36-06:00</updated><id>/</id><title type="html">Copy &amp;amp; Paste</title><subtitle>Thoughts of a Once Lost Astronaut</subtitle><entry><title type="html">De-coupling Angular Component Styles</title><link href="/de-coupling-angular-component-styles" rel="alternate" type="text/html" title="De-coupling Angular Component Styles" /><published>2019-05-24T14:05:00-06:00</published><updated>2019-05-24T14:05:00-06:00</updated><id>/de-coupling-angular-component-styles</id><content type="html" xml:base="/de-coupling-angular-component-styles">&lt;!-- https://www.pexels.com/photo/actors-artists-ballet-costumes-45258/ --&gt;
+
+&lt;h1 id=&quot;de-coupling-angular-component-styles&quot;&gt;De-coupling Angular Component Styles&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Reusability in components is great, but what do you do when you want to style the use of one differently in various places of your web app?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;1) background information - issue at hand&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;set the stage, what issue are we working on?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;2) Possible solution&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;ng-deep (w3c conerns)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;3) “View” archeciture -&amp;gt; stage for acting components to be dressed up, traditionally used as router outlet components.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;view encapsulation none with a parent component (it works downward, not upward - ie you can’t style a body tag)&lt;/li&gt;
+  &lt;li&gt;are not smart, are not containers, just a space to hold active components with some HTML, where we can dress them up like actors on a stage&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Michael Lage</name></author><category term="Angular" /><summary type="html"></summary></entry><entry><title type="html">Connected Opposites</title><link href="/connected-opposites" rel="alternate" type="text/html" title="Connected Opposites" /><published>2018-05-08T15:08:00-06:00</published><updated>2018-05-08T15:08:00-06:00</updated><id>/connected-opposites</id><content type="html" xml:base="/connected-opposites">&lt;blockquote&gt;
+  &lt;p&gt;Here’s a poem about dark times, nature &amp;amp; the way forward to happiness&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Memories of years spent in total darkness… have an unique texture.&lt;/p&gt;
@@ -10,12 +32,12 @@
 
 &lt;p&gt;Fate. Programming. DNA. Free Will. Choice. Young children, without order, without discipline, are wild, free, and chaotic.&lt;/p&gt;
 
-&lt;p&gt;As time passes, experience envelopes, like growing trees, networks of neurons, a physical store, a container, a space growing, a metaphysical world, alone a child, looking down, crying, pain stitched across the face, from winter’s cold embrace.&lt;/p&gt;
+&lt;p&gt;As time passes, experience envelopes, like growing trees, networks of neurons, a space growing, a metaphysical world where alone a child, looking down, crying, pain stitched across their face, from a winter’s cold embrace.&lt;/p&gt;
 
-&lt;p&gt;There, a path required, for a cure desired, has sacrifices to be admired, and as vulnerable as a flower, for a series of hours, a coward, may choose to sour.&lt;/p&gt;
+&lt;p&gt;There, a path required, for a cure desired, has sacrifices to be admired, and as vulnerable as a flower, for series of hours, unless one chooses to sour.&lt;/p&gt;
 
-&lt;p&gt;Truth seeps in, life’s restoring grace, so happenly, it’s encoded in our place. This place, few ever speak of, is full of life… maybe more than most, but it has no face, it is simply a ghost.&lt;/p&gt;
+&lt;p&gt;Truth may seep in, life’s restoring grace, so happenly, it’s encoded in our place. This place, few ever speak of, is full of life… maybe more than most, but it has no face, it is simply a ghost.&lt;/p&gt;
 
-&lt;p&gt;When you see it, you will not know, it typically shows itself as your midnight hole. A house of wonder, you will not know, maybe there, you will see your midnight glow.&lt;/p&gt;
+&lt;p&gt;When you see it, you will not know, it usually introduces itself, like a Christmas coal. A house of wonder, you will not know, maybe there, you will see your midnight glow.&lt;/p&gt;
 
-&lt;p&gt;But if you are lucky, few dare seek. A fresh flow, you.. will.. meet&lt;/p&gt;</content><author><name>L</name></author><category term="Poetry" /><category term="Snapshot Story" /><summary type="html">Here’s a poem, I wrote… about dark memories long ago. If you care to read it, I suggest you read it, very… very… slow. Memories of years spent in total darkness… have an unique texture. They are bumpy, high frequency, turbulent yet not much was done, during the time. Day in and day out, going through the motions in an endless ocean… Sinking deeper into an abyss, decorated by feelings of the heart. A recess into another world. An escape. Fate. Programming. DNA. Free Will. Choice. Young children, without order, without discipline, are wild, free, and chaotic. As time passes, experience envelopes, like growing trees, networks of neurons, a physical store, a container, a space growing, a metaphysical world, alone a child, looking down, crying, pain stitched across the face, from winter’s cold embrace. There, a path required, for a cure desired, has sacrifices to be admired, and as vulnerable as a flower, for a series of hours, a coward, may choose to sour. Truth seeps in, life’s restoring grace, so happenly, it’s encoded in our place. This place, few ever speak of, is full of life… maybe more than most, but it has no face, it is simply a ghost. When you see it, you will not know, it typically shows itself as your midnight hole. A house of wonder, you will not know, maybe there, you will see your midnight glow. But if you are lucky, few dare seek. A fresh flow, you.. will.. meet</summary></entry></feed>
+&lt;p&gt;But if you are lucky, few dare seek. A fresh flow, you… will… meet.&lt;/p&gt;</content><author><name>Michael Lage</name></author><category term="Poetry" /><summary type="html">Here’s a poem about dark times, nature &amp;amp; the way forward to happiness Memories of years spent in total darkness… have an unique texture. They are bumpy, high frequency, turbulent yet not much was done, during the time. Day in and day out, going through the motions in an endless ocean… Sinking deeper into an abyss, decorated by feelings of the heart. A recess into another world. An escape. Fate. Programming. DNA. Free Will. Choice. Young children, without order, without discipline, are wild, free, and chaotic. As time passes, experience envelopes, like growing trees, networks of neurons, a space growing, a metaphysical world where alone a child, looking down, crying, pain stitched across their face, from a winter’s cold embrace. There, a path required, for a cure desired, has sacrifices to be admired, and as vulnerable as a flower, for series of hours, unless one chooses to sour. Truth may seep in, life’s restoring grace, so happenly, it’s encoded in our place. This place, few ever speak of, is full of life… maybe more than most, but it has no face, it is simply a ghost. When you see it, you will not know, it usually introduces itself, like a Christmas coal. A house of wonder, you will not know, maybe there, you will see your midnight glow. But if you are lucky, few dare seek. A fresh flow, you… will… meet.</summary></entry></feed>

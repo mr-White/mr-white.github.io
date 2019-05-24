@@ -2,16 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> - Articles</title>
-    <description>Thoughts of a Lost Astronaut</description>
+    <description>Thoughts of a Once Lost Astronaut</description>
     <link>
     </link>
+    
+      
+      <item>
+        <title>De-coupling Angular Component Styles</title>
+        
+          <description>&lt;!-- https://www.pexels.com/photo/actors-artists-ballet-costumes-45258/ --&gt;
+
+</description>
+        
+        <pubDate>Fri, 24 May 2019 13:05:00 -0700</pubDate>
+        <link>
+        /de-coupling-angular-component-styles</link>
+        <guid isPermaLink="true">/de-coupling-angular-component-styles</guid>
+      </item>
+      
     
       
       <item>
         <title>Connected Opposites</title>
         
           <description>&lt;blockquote&gt;
-  &lt;p&gt;Here’s a poem, I wrote… about dark memories long ago. If you care to read it, I suggest you read it, very… very… slow.&lt;/p&gt;
+  &lt;p&gt;Here’s a poem about dark times, nature &amp;amp; the way forward to happiness&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Memories of years spent in total darkness… have an unique texture.&lt;/p&gt;
@@ -22,15 +37,15 @@
 
 &lt;p&gt;Fate. Programming. DNA. Free Will. Choice. Young children, without order, without discipline, are wild, free, and chaotic.&lt;/p&gt;
 
-&lt;p&gt;As time passes, experience envelopes, like growing trees, networks of neurons, a physical store, a container, a space growing, a metaphysical world, alone a child, looking down, crying, pain stitched across the face, from winter’s cold embrace.&lt;/p&gt;
+&lt;p&gt;As time passes, experience envelopes, like growing trees, networks of neurons, a space growing, a metaphysical world where alone a child, looking down, crying, pain stitched across their face, from a winter’s cold embrace.&lt;/p&gt;
 
-&lt;p&gt;There, a path required, for a cure desired, has sacrifices to be admired, and as vulnerable as a flower, for a series of hours, a coward, may choose to sour.&lt;/p&gt;
+&lt;p&gt;There, a path required, for a cure desired, has sacrifices to be admired, and as vulnerable as a flower, for series of hours, unless one chooses to sour.&lt;/p&gt;
 
-&lt;p&gt;Truth seeps in, life’s restoring grace, so happenly, it’s encoded in our place. This place, few ever speak of, is full of life… maybe more than most, but it has no face, it is simply a ghost.&lt;/p&gt;
+&lt;p&gt;Truth may seep in, life’s restoring grace, so happenly, it’s encoded in our place. This place, few ever speak of, is full of life… maybe more than most, but it has no face, it is simply a ghost.&lt;/p&gt;
 
-&lt;p&gt;When you see it, you will not know, it typically shows itself as your midnight hole. A house of wonder, you will not know, maybe there, you will see your midnight glow.&lt;/p&gt;
+&lt;p&gt;When you see it, you will not know, it usually introduces itself, like a Christmas coal. A house of wonder, you will not know, maybe there, you will see your midnight glow.&lt;/p&gt;
 
-&lt;p&gt;But if you are lucky, few dare seek. A fresh flow, you.. will.. meet&lt;/p&gt;
+&lt;p&gt;But if you are lucky, few dare seek. A fresh flow, you… will… meet.&lt;/p&gt;
 </description>
         
         <pubDate>Tue, 08 May 2018 15:08:00 -0600</pubDate>
